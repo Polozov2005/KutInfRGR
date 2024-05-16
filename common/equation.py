@@ -35,7 +35,7 @@ def U(A, Y, I, E):
 
 # Расчёт значений узловых потенциалов в точках X
 def X(U):
-    list = np.zeros([10 + 1], dtype=np.complex64)
+    list = np.zeros([11 + 1], dtype=np.complex64)
 
     list[ 1] = U[11]
     list[ 2] = U[16]

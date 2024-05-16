@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 24px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 0 9.89 9.89;
+      }
+
+      .cls-16 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        stroke-dasharray: 0 0 11.11 11.11;
+      }
+
+      .cls-17 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 0 0 11.12 11.12;
+      }
+
+      .cls-18 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        font-size: 36px;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-size: 21px;
+      }
+
+      .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-20 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 0 0 12.57 12.57;
+      }
+    </style>
+  </defs>
+  <path d="m1600,0v1500H0V0h1600m10-10H-10v1520h1620V-10h0Z"/>
+  <g>
+    <g>
+      <rect class="cls-10" x="300" y="100" width="200" height="100" rx="46.91" ry="46.91"/>
+      <text class="cls-6" transform="translate(344.55 162.51)"><tspan x="0" y="0">Н</tspan><tspan class="cls-16" x="26" y="0">а</tspan><tspan x="40.54" y="0">ч</tspan><tspan class="cls-4" x="58.64" y="0">а</tspan><tspan x="74.94" y="0">ло</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="300" y="300" width="200" height="100"/>
+      <text class="cls-6" transform="translate(334.28 331.51)"><tspan x="0" y="0">Заг</tspan><tspan class="cls-15" x="48.78" y="0">р</tspan><tspan x="66.3" y="0">уз</tspan><tspan class="cls-9" x="98.53" y="0">к</tspan><tspan x="115.47" y="0">а </tspan><tspan x="-8.34" y="31">и</tspan><tspan class="cls-15" x="10.92" y="31">с</tspan><tspan class="cls-1" x="26.43" y="31">х</tspan><tspan class="cls-18" x="43.06" y="31">о</tspan><tspan x="60.02" y="31">дных </tspan><tspan x="8.22" y="62">данных</tspan></text>
+    </g>
+    <g>
+      <path class="cls-10" d="m630,300h-30v100h30"/>
+      <text class="cls-8" transform="translate(610 323.86)"><tspan x="0" y="0">A.xlsx</tspan><tspan x="0" y="21.6">Y.xlsx</tspan><tspan x="0" y="43.2">E.xlsx</tspan><tspan x="0" y="64.8">I.xlsx</tspan></text>
+    </g>
+    <line class="cls-10" x1="400" y1="200" x2="400" y2="300"/>
+    <g>
+      <line class="cls-10" x1="600" y1="350" x2="594" y2="350"/>
+      <line class="cls-14" x1="581.43" y1="350" x2="512.29" y2="350"/>
+      <line class="cls-10" x1="506" y1="350" x2="500" y2="350"/>
+    </g>
+    <g>
+      <rect class="cls-10" x="300" y="500" width="200" height="100"/>
+      <text class="cls-5" transform="translate(319.38 542.34)"><tspan x="0" y="0">Иници</tspan><tspan class="cls-4" x="68.71" y="0">а</tspan><tspan x="79.57" y="0">лизация </tspan><tspan x="20.89" y="32">интерфей</tspan><tspan class="cls-2" x="118.76" y="32">с</tspan><tspan x="129.71" y="32">а</tspan></text>
+    </g>
+    <g>
+      <circle class="cls-10" cx="400" cy="750" r="50"/>
+      <text class="cls-6" transform="translate(391 762.51)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g>
+      <circle class="cls-10" cx="400" cy="950" r="50"/>
+      <text class="cls-6" transform="translate(391 962.51)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <line class="cls-10" x1="400" y1="400" x2="400" y2="500"/>
+    <line class="cls-10" x1="400" y1="600" x2="400" y2="700"/>
+    <line class="cls-10" x1="400" y1="1000" x2="400" y2="1100"/>
+    <g>
+      <polyline class="cls-10" points="500 1044.5 500 1050 494.5 1050"/>
+      <line class="cls-13" x1="483.38" y1="1050" x2="311.06" y2="1050"/>
+      <polyline class="cls-10" points="305.5 1050 300 1050 300 1044.5"/>
+      <line class="cls-12" x1="300" y1="1033.39" x2="300" y2="661.06"/>
+      <polyline class="cls-10" points="300 655.5 300 650 305.5 650"/>
+      <line class="cls-13" x1="316.62" y1="650" x2="488.94" y2="650"/>
+      <polyline class="cls-10" points="494.5 650 500 650 500 655.5"/>
+      <line class="cls-12" x1="500" y1="666.61" x2="500" y2="1038.94"/>
+    </g>
+    <g>
+      <path class="cls-10" d="m630,800h-30v100h30"/>
+      <text class="cls-8" transform="translate(610 834.65)"><tspan x="0" y="0">Взаимодействие </tspan><tspan x="0" y="21.6">пользователя с </tspan><tspan x="0" y="43.2">интерфейсом</tspan></text>
+    </g>
+    <g>
+      <polyline class="cls-10" points="594.5 850 600 850 594.5 850"/>
+      <line class="cls-11" x1="584.61" y1="850" x2="510.44" y2="850"/>
+      <polyline class="cls-10" points="505.5 850 500 850 505.5 850"/>
+      <line class="cls-11" x1="515.39" y1="850" x2="589.56" y2="850"/>
+    </g>
+    <g>
+      <rect class="cls-10" x="300" y="1100" width="200" height="100"/>
+      <text class="cls-6" transform="translate(328.7 1147.01)"><tspan x="0" y="0">Вы</tspan><tspan class="cls-1" x="48.2" y="0">х</tspan><tspan class="cls-18" x="64.83" y="0">о</tspan><tspan x="81.79" y="0">д из </tspan><tspan x="-15.58" y="31">программы</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="300" y="1300" width="200" height="100" rx="46.91" ry="46.91"/>
+      <text class="cls-6" transform="translate(352.64 1362.51)"><tspan class="cls-17" x="0" y="0">К</tspan><tspan x="22.22" y="0">онец</tspan></text>
+    </g>
+    <line class="cls-10" x1="400" y1="1200" x2="400" y2="1300"/>
+  </g>
+  <g>
+    <g>
+      <circle class="cls-10" cx="1200" cy="250" r="50"/>
+      <text class="cls-6" transform="translate(1191 262.51)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <line class="cls-10" x1="1200" y1="300" x2="1200" y2="400"/>
+    <g>
+      <rect class="cls-10" x="1100" y="400" width="200" height="100"/>
+      <text class="cls-5" transform="translate(1124.82 426.34)"><tspan x="0" y="0">Перекл</tspan><tspan class="cls-1" x="74.27" y="0">ю</tspan><tspan x="91.29" y="0">чение </tspan><tspan x="29.88" y="32">режимов </tspan><tspan x="1.76" y="64">выкл</tspan><tspan class="cls-1" x="52.86" y="64">ю</tspan><tspan x="69.87" y="64">ч</tspan><tspan class="cls-3" x="81.94" y="64">а</tspan><tspan x="91.97" y="64">телей</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="1100" y="600" width="200" height="100"/>
+      <text class="cls-5" transform="translate(1116.67 642.34)"><tspan x="0" y="0">Ра</tspan><tspan class="cls-20" x="24" y="0">с</tspan><tspan x="34.17" y="0">чёт зн</tspan><tspan class="cls-16" x="95.71" y="0">а</tspan><tspan x="105.4" y="0">чений </tspan><tspan x="21.07" y="32">н</tspan><tspan class="cls-15" x="33.91" y="32">а</tspan><tspan x="44.25" y="32">пря</tspan><tspan class="cls-15" x="80.13" y="32">ж</tspan><tspan x="96.4" y="32">ений</tspan></text>
+    </g>
+    <line class="cls-10" x1="1200" y1="500" x2="1200" y2="600"/>
+    <g>
+      <path class="cls-10" d="m1170,900h110c19.46-20.43,20-44.88,20-50,0-28.21-16.47-46.29-20-50h-110c-13.96,5.55-32.03,14.7-50,30-7.94,6.76-14.55,13.6-20,20,5.45,6.4,12.06,13.24,20,20,17.97,15.3,36.04,24.45,50,30Z"/>
+      <text class="cls-7" transform="translate(1159.58 829.3)"><tspan x="0" y="0">О</tspan><tspan class="cls-15" x="15.17" y="0">т</tspan><tspan x="24.07" y="0">обра</tspan><tspan class="cls-15" x="65.07" y="0">ж</tspan><tspan x="79.3" y="0">ение </tspan><tspan x="38.81" y="28">зн</tspan><tspan class="cls-16" x="58.34" y="28">а</tspan><tspan x="66.82" y="28">чений </tspan><tspan x="11.47" y="56">н</tspan><tspan class="cls-15" x="22.71" y="56">а</tspan><tspan x="31.76" y="56">пря</tspan><tspan class="cls-15" x="63.15" y="56">ж</tspan><tspan x="77.39" y="56">ений</tspan></text>
+    </g>
+    <line class="cls-10" x1="1200" y1="700" x2="1200" y2="800"/>
+    <g>
+      <rect class="cls-10" x="1100" y="1000" width="200" height="100"/>
+      <text class="cls-5" transform="translate(1115.54 1026.34)"><tspan x="0" y="0">З</tspan><tspan class="cls-15" x="12.02" y="0">а</tspan><tspan x="22.36" y="0">пись зн</tspan><tspan class="cls-16" x="97.97" y="0">а</tspan><tspan x="107.66" y="0">чений </tspan><tspan x="7.62" y="32">н</tspan><tspan class="cls-15" x="20.46" y="32">а</tspan><tspan x="30.8" y="32">пря</tspan><tspan class="cls-15" x="66.68" y="32">ж</tspan><tspan x="82.95" y="32">ений </tspan><tspan class="cls-19" x="138.13" y="32">в</tspan><tspan x="149.3" y="32">о </tspan><tspan x="10.03" y="64">внешний файл</tspan></text>
+    </g>
+    <g>
+      <path class="cls-10" d="m1430,1000h-30v100h30"/>
+      <text class="cls-8" transform="translate(1410 1056.25)"><tspan x="0" y="0">X.xlsx</tspan></text>
+    </g>
+    <line class="cls-10" x1="1200" y1="900" x2="1200" y2="1000"/>
+    <g>
+      <line class="cls-10" x1="1400" y1="1050" x2="1394.5" y2="1050"/>
+      <line class="cls-11" x1="1384.61" y1="1050" x2="1310.44" y2="1050"/>
+      <line class="cls-10" x1="1305.5" y1="1050" x2="1300" y2="1050"/>
+    </g>
+    <g>
+      <circle class="cls-10" cx="1200" cy="1250" r="50"/>
+      <text class="cls-6" transform="translate(1191 1262.51)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <line class="cls-10" x1="1200" y1="1100" x2="1200" y2="1200"/>
+  </g>
+</svg>

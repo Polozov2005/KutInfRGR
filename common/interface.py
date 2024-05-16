@@ -566,7 +566,7 @@ frm_solveandsave.columnconfigure(index=0, weight=1)
 frm_solveandsave.rowconfigure(index=0, weight=1)
 
 ### U
-U_list = np.zeros([16 + 1], dtype=np.complex64)
+U_list = np.zeros([18 + 1], dtype=np.complex64)
 
 for k in range(-((-len(U_list)+1)//9)):
     label_i_U = Label(

@@ -96,3 +96,6 @@ def I():
     }
 
     return dictionary
+
+A_matrix = A()['matrix']
+print(A_matrix.shape)
